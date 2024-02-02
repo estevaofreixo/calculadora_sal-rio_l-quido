@@ -1,0 +1,29 @@
+body {
+    height: 90vh;
+    width: 99%;
+    background-color:coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 30%;
+    height: 70%;
+    background-color: bisque;
+    padding-top: 1%;
+}
+
+input {
+    margin-top: 2%;
+    margin-left: 5%;    
+}
+
+.lab, .result {
+    margin-left: 5%;
+    margin-top: 4%;
+}
+
+h3 {
+    text-align: center;
+}
